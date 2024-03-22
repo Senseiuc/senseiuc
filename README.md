@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nwadialu Uchenna Gideon</h1>
+<h1 align="center">Hi 👋, I'm Nwadialu Gideon</h1>
 <h3 align="center">A Mathematician and a Software Engineer</h3>
 <!---
 ![profile_picture](https://github.com/Senseiuc/senseiuc/assets/62717218/12045d69-6711-438c-8f24-04e405977307)
 -->
 
-<p align="left"> <a href="https://twitter.com/senseiuc" target="blank"><img src="https://img.shields.io/twitter/follow/senseiuc?logo=twitter&style=for-the-badge" alt="senseiuc" /></a> </p>
-
 - 📫 How to reach me **nwadialugideon@gmail.com**
 
-- ⚡ Fun fact **I am also a spoken word artist**
+- ⚡ Fun fact **I'm a spoken word fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
